@@ -13,3 +13,7 @@ This documentation is done with [Jekyl](https://jekyllrb.com/docs/), you would n
 ```
 
 ### Contributors
+
+<a href="https://github.com/PidginWiki/docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PidginWiki/docs" />
+</a>
