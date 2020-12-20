@@ -31,3 +31,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Open source documentation theme
 gem "just-the-docs"
 
+# Plugin to 
+group :jekyll_plugins do
+  gem "jekyll-timeago", "~> 0.13.1"
+end
+
